@@ -6,12 +6,12 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.4.1</version>
+		<version>3.4.11</version>
 		<relativePath />
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>Balance-Batch</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>Balance-Batch-build</name>
 	<description>Batch job to process balance file records</description>
